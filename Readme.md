@@ -1,6 +1,6 @@
 # errorFunction
 
-errorFunction is a command line tool/program that I wrote for my Scientific Computing course at Wabash College. This was written when I was a senior in college in 2008 ... yeah its been a while :) .
+errorFunction is a command line tool/program that I wrote for my Scientific Computing course at Wabash College. This was written when I was a junior in college in 2007 ... yeah its been a while :) .
 
 The program evaluates an approximation of the [error function][errorFunction] over an interval given by the user. It also uses [Simpson's rule/method for numerical integration][simpson] for approximating the integral in the error function. The results are then printed on a text file labeled "results.dat" which is compatible with [gnuplot][gnuplot].
 
